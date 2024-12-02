@@ -1,6 +1,0 @@
-INFO - main.py - 2024-12-02 20:37:46,560 - Using device: cpu
-INFO - main.py - 2024-12-02 20:37:46,563 - Writing log file to exp/logs/images_experiment
-INFO - main.py - 2024-12-02 20:37:46,563 - Exp instance id = 16778
-INFO - main.py - 2024-12-02 20:37:46,563 - Exp comment = 
-INFO - diffusion.py - 2024-12-02 20:38:00,925 - step: 1, loss: 13502.1982421875, data time: 1.175779104232788
-INFO - diffusion.py - 2024-12-02 20:38:47,931 - step: 2, loss: 11640.91796875, data time: 0.5955905914306641
